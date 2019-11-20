@@ -58,7 +58,6 @@ The diagram below provides a high-level overview of the architecture:
 
 image:diagram_sdk.png[Diagram]
 
-
 == Usage
 
 === Dependencies
